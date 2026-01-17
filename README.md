@@ -50,7 +50,7 @@ https://bg-me-server-production.up.railway.app
 
 
 Backend source:
-👉 https://github.com/YOURNAME/bg-me-server
+👉 https://github.com/soul-sapphire/bg-me-server
 
 🛠 Tech Stack
 
