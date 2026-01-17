@@ -1,0 +1,8 @@
+{
+  "manifest_version": 3,
+  "name": "bg.me – One Click Background Remover",
+  "version": "1.0",
+  "description": "Remove image background instantly with one click.",
+  "permissions": ["activeTab", "scripting"],
+  "action": { "default_popup": "popup.html" }
+}
